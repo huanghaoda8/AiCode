@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AiCode</string>
+    <string name="welcome">欢迎使用 AiCode</string>
+    <string name="description">你的 Kotlin Android 项目已准备就绪</string>
+</resources>
